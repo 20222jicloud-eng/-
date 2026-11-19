@@ -1,0 +1,6 @@
+{
+  "name": "기체 탐험대 - 일상생활 속 기체 찾기",
+  "description": "초등학교 4학년 과학 수업에서 학생들이 여러 가지 기체의 성질과 일상생활 이용 사례를 탐구하고 실험관찰 노트를 작성하는 학습 사이트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
